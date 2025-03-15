@@ -1,0 +1,14 @@
+# Compile folder
+/bin/
+/obj/
+*.exe
+
+# Module folder
+/vendor/
+go.sum
+go.mod
+
+# IDE files
+*.swp
+*.vscode/
+.idea/
